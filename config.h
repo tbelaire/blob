@@ -28,6 +28,7 @@
 #define DRAW_POINTS true
 #define DRAW_POLYGON true
 #define DRAW_BLOB true
+#define DRAW_BACKGROUND true
 
 
 /* CONFIG PARAMS FOR B2.CPP */
